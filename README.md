@@ -1,3 +1,7 @@
+---
+title: My Docs Site
+---
+
 # My Docs Site
 
 A Starlight-powered documentation site that publishes to GitHub Pages.
